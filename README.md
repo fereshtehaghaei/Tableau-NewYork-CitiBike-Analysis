@@ -65,7 +65,9 @@ Before doing any visualizations, I first used Python and the Pandas library to c
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 
-* Created a Tableau story that brings together the visualizations, requested maps, and dashboards.
+* Created a Tableau story that brings together the visualizations, requested maps, and dashboards. Click [here](https://public.tableau.com/profile/fereshteh.aghaei#!/vizhome/CitiBikeAnalysis2019-2020_16132784903390/AnalysisPresentation) 
+
+  ![Citi-Bikes](Images/dashboard.png)
 
   
 
